@@ -109,7 +109,7 @@ The system follows the **MERN stack architecture**:
 ### 1. Clone the repository
 
 ```bash id="7c3qaa"}
-git clone https://github.com/yourusername/book-my-workstation.git
+[git clone https://github.com/yourusername/book-my-workstation.git](https://github.com/JaisonPJoy/Book-My-Workstation.git)
 ```
 
 ### 2. Navigate to the project folder
